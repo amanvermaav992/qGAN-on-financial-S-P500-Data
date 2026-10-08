@@ -1,0 +1,1 @@
+# qGAN-on-financial-S-P500-Data
